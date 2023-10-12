@@ -17,15 +17,15 @@ Projeyi `git` ile yükleme
 
 ## movies.csv veri seti
 
-![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss3.png)
+![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss3.png)
 
 ## ratings.csv veri seti
 
-![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss4.png)
+![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss4.png)
 
 ## Öneri 
 
-![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss5.png)
+![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss5.png)
 
 
 

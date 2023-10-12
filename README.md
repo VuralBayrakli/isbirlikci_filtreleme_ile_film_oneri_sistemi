@@ -10,22 +10,8 @@ Projeyi `git` ile yükleme
 ```bash
   git clone https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi.git
 ```
-    
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
+## Gerekli Dosyalar
+ - [Gerekli Dosyaları İndirin](https://files.grouplens.org/datasets/movielens/ml-25m.zip)
 
 ## Screenshots
 

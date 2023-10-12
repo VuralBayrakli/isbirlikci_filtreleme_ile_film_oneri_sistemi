@@ -15,7 +15,7 @@ Projeyi `git` ile yükleme
 ## Gerekli Dosyalar
  - [Gerekli Dosyaları İndirin](https://files.grouplens.org/datasets/movielens/ml-25m.zip)
 
-## Screenshots
+## 
 
 ![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss1.png)
 

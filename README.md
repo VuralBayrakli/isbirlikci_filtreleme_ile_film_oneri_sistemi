@@ -15,8 +15,8 @@ Projeyi `git` ile yükleme
 ## Gerekli Dosyalar ve Kodu Çalıştırma
  - [Gerekli Dosyaları İndirin](https://files.grouplens.org/datasets/movielens/ml-25m.zip)
  - `film_oneri_sistemi.ipynb` dosyasına giriş yapın.
- - Bütün satırları çalıştırın.
- - Aşağıdaki görseldeki kodu çalıştırın.
+ - Bütün satırları tek tek çalıştırın.
+ - En son aşağıdaki görseldeki kodu çalıştırarak film önerisi alabilirsiniz.
    ![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss6.png)
 
 ## movies.csv veri seti

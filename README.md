@@ -15,8 +15,17 @@ Projeyi `git` ile yükleme
 ## Gerekli Dosyalar
  - [Gerekli Dosyaları İndirin](https://files.grouplens.org/datasets/movielens/ml-25m.zip)
 
-## Screenshots
+## movies.csv veri seti
 
-![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss1.png)
+![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss3.png)
+
+## ratings.csv veri seti
+
+![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss4.png)
+
+## Öneri 
+
+![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss5.png)
+
 
 

@@ -17,7 +17,7 @@ Projeyi `git` ile yükleme
  - `film_oneri_sistemi.ipynb` dosyasına giriş yapın.
  - Bütün satırları tek tek çalıştırın.
  - En son aşağıdaki görseldeki kodu çalıştırarak film önerisi alabilirsiniz.
-   ![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss6.png)
+   ![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss7.png)
 
 ## movies.csv veri seti
 

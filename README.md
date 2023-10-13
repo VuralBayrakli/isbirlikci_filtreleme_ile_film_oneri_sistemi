@@ -21,7 +21,7 @@ Projeyi `git` ile yükleme
 
 ## movies.csv veri seti
 
-
+![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss1.png)
 
 ## ratings.csv veri seti
 

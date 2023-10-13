@@ -12,12 +12,16 @@ Projeyi `git` ile yükleme
 ```bash
   git clone https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi.git
 ```
-## Gerekli Dosyalar
+## Gerekli Dosyalar ve Kodu Çalıştırma
  - [Gerekli Dosyaları İndirin](https://files.grouplens.org/datasets/movielens/ml-25m.zip)
+ - `film_oneri_sistemi.ipynb` dosyasına giriş yapın.
+ - Bütün satırları çalıştırın.
+ - Aşağıdaki görseldeki kodu çalıştırın.
+   ![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss6.png)
 
 ## movies.csv veri seti
 
-![App Screenshot](https://github.com/VuralBayrakli/isbirlikci_filtreleme_ile_film_oneri_sistemi/blob/main/screenshots/ss3.png)
+
 
 ## ratings.csv veri seti
 
